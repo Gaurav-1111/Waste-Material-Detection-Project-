@@ -1,0 +1,20 @@
+README.md
+setup.py
+Waste Detection/__init__.py
+Waste Detection/components/__init__.py
+Waste Detection/components/data_ingestion.py
+Waste Detection/components/data_validation.py
+Waste Detection/components/model_trainer.py
+Waste Detection/constant/__init__.py
+Waste Detection/constant/application.py
+Waste Detection/constant/training_pipeline/__init__.py
+Waste Detection/exception/__init__.py
+Waste Detection/logger/__init__.py
+Waste Detection/pipeline/__init__.py
+Waste Detection/pipeline/training_pipeline.py
+Waste Detection/utils/__init__.py
+Waste Detection/utils/main_utils.py
+Waste_Detection.egg-info/PKG-INFO
+Waste_Detection.egg-info/SOURCES.txt
+Waste_Detection.egg-info/dependency_links.txt
+Waste_Detection.egg-info/top_level.txt
